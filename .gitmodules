@@ -1,0 +1,22 @@
+[submodule "examples/MLOps_VideoAnomalyDetection"]
+	path = examples/MLOps_VideoAnomalyDetection
+	url = https://github.com/nholuongut/MLOps-Guidance-on-Azure_VideoAnomalyDetection.git
+[submodule "examples/MLOpsPython"]
+	path = examples/MLOpsPython
+	url = https://github.com/nholuongut/MLOps-Guidance-on-AzurePython.git
+[submodule "examples/MLOpsDatabricks"]
+	path = examples/MLOpsDatabricks
+	url = https://github.com/azure-samples/MLOpsDatabricks.git
+[submodule "examples/azureml-compute-debugging-pycharm"]
+	path = examples/Pycharm-Debugging
+	url = https://github.com/ezwiefel/azureml-compute-debugging-pycharm
+[submodule "examples/MLOps-YoloV3"]
+	path = examples/MLOps-YoloV3
+	url = https://github.com/alexandergg/MLOps-YoloV3
+[submodule "examples/MLOpsManufacturing"]
+	path = examples/MLOpsManufacturing
+	url = https://github.com/liupeirong/MLOpsManufacturing
+
+[submodule "examples/MachineLearning-BaseballPrediction-BlazorApp"]
+	path = examples/MachineLearning-BaseballPrediction-BlazorApp
+	url = https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp
